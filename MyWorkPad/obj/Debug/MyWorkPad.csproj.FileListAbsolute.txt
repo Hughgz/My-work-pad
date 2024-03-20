@@ -1,0 +1,11 @@
+D:\MyWorkPad\MyWorkPad\bin\Debug\MyWorkPad.exe.config
+D:\MyWorkPad\MyWorkPad\bin\Debug\MyWorkPad.exe
+D:\MyWorkPad\MyWorkPad\bin\Debug\MyWorkPad.pdb
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.csproj.AssemblyReference.cache
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.Form1.resources
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.Properties.Resources.resources
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.csproj.GenerateResource.cache
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.csproj.CoreCompileInputs.cache
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.exe
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.pdb
+D:\MyWorkPad\MyWorkPad\obj\Debug\MyWorkPad.member.resources
